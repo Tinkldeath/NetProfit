@@ -20,3 +20,9 @@ Tiny mobile application for calculating profit taking into account by exchange r
 * Clone repository
 * Install pods
 * Open .xcworkspace and run
+
+## Demo:
+
+
+https://github.com/Tinkldeath/NetProfit/assets/68143464/74893d9b-27b1-4038-b3f5-d51b6d6a3f14
+
